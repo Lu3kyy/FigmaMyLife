@@ -47,7 +47,7 @@ body {
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.486);
 }
-.interest-box h3 {
+.interest-box h3 { /* text box with spacing at bottom*/
   color: #d1d1d1;
   margin-bottom: 10px;
 }
@@ -55,7 +55,7 @@ body {
   font-size: 1.05rem;
   line-height: 1.6;
 }
-/* Shared content box style for intro and interests pages */
+/* Shared content box style for all pages */
 .content-box {
   background-color: rgba(0, 0, 0, 0.7);  /* dark transparent overlay */
   color: #f1f1f1;                        /* light text for contrast */
